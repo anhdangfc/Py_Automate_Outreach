@@ -1,5 +1,5 @@
 #! python3
-# pw.py - An insecure password locker program.
+# 13b_pw.py - An insecure password locker program.
 
 PASSWORDS = {'email': 'F7minlBDDuvMJuxESSKHFhTxFtjVB6',
              'blog': 'VmALvQyKAxiVH5G8v01if1MLZF3sdt',
@@ -7,8 +7,9 @@ PASSWORDS = {'email': 'F7minlBDDuvMJuxESSKHFhTxFtjVB6',
 
 import sys, pyperclip
 
-if len(sys.argv) < 2:
-    print('Usage: python pw.py [account] - copy account password')
+if len(sys.argv) < 2: ## this one take the sys.argv, taking when you put the below code on cmd
+    print('Hello World')
+    print('Usage: python 13b_pw.py [account] - copy account password') ## this contents in cmd (set the cd to the path of your py file)
     exit()
 
 account = sys.argv[1] # first command line arg is the account name
