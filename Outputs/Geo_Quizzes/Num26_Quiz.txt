@@ -1,0 +1,305 @@
+Name:
+Date:
+Result:
+----------State Capital Quiz Form No.26----------
+
+1. What is the captial of Louisiana?
+A. Charleston 
+B. Richmond 
+C. Santa Fe 
+D. Baton Rouge 
+
+2. What is the captial of South Carolina?
+A. Montgomery 
+B. Lansing 
+C. Hartford 
+D. Columbia 
+
+3. What is the captial of Florida?
+A. Sacramento 
+B. Oklahoma City 
+C. Tallahassee 
+D. Santa Fe 
+
+4. What is the captial of Michigan?
+A. Topeka 
+B. Lansing 
+C. Jefferson City 
+D. Harrisburg 
+
+5. What is the captial of Delaware?
+A. Juneau 
+B. Providence 
+C. Albany 
+D. Dover 
+
+6. What is the captial of California?
+A. Bismarck 
+B. Sacramento 
+C. Helena 
+D. Frankfort 
+
+7. What is the captial of New Mexico?
+A. Santa Fe 
+B. Saint Paul 
+C. Lansing 
+D. Hartford 
+
+8. What is the captial of Tennessee?
+A. Augusta 
+B. Nashville 
+C. Albany 
+D. Frankfort 
+
+9. What is the captial of New Jersey?
+A. Boise 
+B. Olympia 
+C. Jefferson City 
+D. Trenton 
+
+10. What is the captial of Massachusetts?
+A. Topeka 
+B. Carson City 
+C. Des Moines 
+D. Boston 
+
+11. What is the captial of Hawaii?
+A. Charleston 
+B. Cheyenne 
+C. Honolulu 
+D. Carson City 
+
+12. What is the captial of Rhode Island?
+A. Montgomery 
+B. Providence 
+C. Madison 
+D. Jefferson City 
+
+13. What is the captial of Georgia?
+A. Juneau 
+B. Tallahassee 
+C. Nashville 
+D. Atlanta 
+
+14. What is the captial of Illinois?
+A. Augusta 
+B. Springfield 
+C. Dover 
+D. Little Rock 
+
+15. What is the captial of Missouri?
+A. Lansing 
+B. Juneau 
+C. Jefferson City 
+D. Boise 
+
+16. What is the captial of Texas?
+A. Austin 
+B. Tallahassee 
+C. Juneau 
+D. Columbus 
+
+17. What is the captial of Nebraska?
+A. Salt Lake City 
+B. Honolulu 
+C. Pierre 
+D. Lincoln 
+
+18. What is the captial of Oklahoma?
+A. Nashville 
+B. Oklahoma City 
+C. Jackson 
+D. Salem 
+
+19. What is the captial of Connecticut?
+A. Hartford 
+B. Columbus 
+C. Tallahassee 
+D. Santa Fe 
+
+20. What is the captial of Wisconsin?
+A. Madison 
+B. Bismarck 
+C. Little Rock 
+D. Des Moines 
+
+21. What is the captial of Kentucky?
+A. Jackson 
+B. Columbia 
+C. Boise 
+D. Frankfort 
+
+22. What is the captial of Arizona?
+A. Salt Lake City 
+B. Phoenix 
+C. Saint Paul 
+D. Columbia 
+
+23. What is the captial of North Carolina?
+A. Raleigh 
+B. Santa Fe 
+C. Austin 
+D. Richmond 
+
+24. What is the captial of Arkansas?
+A. Little Rock 
+B. Salem 
+C. Phoenix 
+D. Baton Rouge 
+
+25. What is the captial of Utah?
+A. Denver 
+B. Columbus 
+C. Helena 
+D. Salt Lake City 
+
+26. What is the captial of South Dakota?
+A. Dover 
+B. Pierre 
+C. Olympia 
+D. Richmond 
+
+27. What is the captial of Alabama?
+A. Montgomery 
+B. Augusta 
+C. Hartford 
+D. Nashville 
+
+28. What is the captial of Maryland?
+A. Columbus 
+B. Providence 
+C. Annapolis 
+D. Jefferson City 
+
+29. What is the captial of Mississippi?
+A. Carson City 
+B. Cheyenne 
+C. Jackson 
+D. Boston 
+
+30. What is the captial of Montana?
+A. Honolulu 
+B. Indianapolis 
+C. Helena 
+D. Charleston 
+
+31. What is the captial of North Dakota?
+A. Carson City 
+B. Topeka 
+C. Madison 
+D. Bismarck 
+
+32. What is the captial of Alaska?
+A. Juneau 
+B. Nashville 
+C. Pierre 
+D. Oklahoma City 
+
+33. What is the captial of New Hampshire?
+A. Jefferson City 
+B. Concord 
+C. Madison 
+D. Boise 
+
+34. What is the captial of Ohio?
+A. Sacramento 
+B. Columbus 
+C. Concord 
+D. Madison 
+
+35. What is the captial of Colorado?
+A. Little Rock 
+B. Lansing 
+C. Juneau 
+D. Denver 
+
+36. What is the captial of Pennsylvania?
+A. Augusta 
+B. Frankfort 
+C. Boston 
+D. Harrisburg 
+
+37. What is the captial of Kansas?
+A. Honolulu 
+B. Topeka 
+C. Hartford 
+D. Little Rock 
+
+38. What is the captial of Indiana?
+A. Indianapolis 
+B. Des Moines 
+C. Pierre 
+D. Santa Fe 
+
+39. What is the captial of Vermont?
+A. Tallahassee 
+B. Santa Fe 
+C. Montpelier 
+D. Lincoln 
+
+40. What is the captial of Wyoming?
+A. Augusta 
+B. Madison 
+C. Cheyenne 
+D. Atlanta 
+
+41. What is the captial of Virginia?
+A. Bismarck 
+B. Des Moines 
+C. Richmond 
+D. Indianapolis 
+
+42. What is the captial of New York?
+A. Austin 
+B. Albany 
+C. Providence 
+D. Juneau 
+
+43. What is the captial of Maine?
+A. Des Moines 
+B. Augusta 
+C. Montpelier 
+D. Lansing 
+
+44. What is the captial of Nevada?
+A. Concord 
+B. Carson City 
+C. Helena 
+D. Baton Rouge 
+
+45. What is the captial of Minnesota?
+A. Saint Paul 
+B. Columbus 
+C. Montpelier 
+D. Jackson 
+
+46. What is the captial of Iowa?
+A. Annapolis 
+B. Springfield 
+C. Raleigh 
+D. Des Moines 
+
+47. What is the captial of West Virginia?
+A. Juneau 
+B. Montgomery 
+C. Charleston 
+D. Topeka 
+
+48. What is the captial of Idaho?
+A. Boise 
+B. Richmond 
+C. Madison 
+D. Providence 
+
+49. What is the captial of Oregon?
+A. Phoenix 
+B. Raleigh 
+C. Salem 
+D. Harrisburg 
+
+50. What is the captial of Washington?
+A. Olympia 
+B. Cheyenne 
+C. Atlanta 
+D. Columbia 
+
